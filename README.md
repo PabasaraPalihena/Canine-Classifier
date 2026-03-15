@@ -1,4 +1,4 @@
-# 🐾 Canine-Classifier : Dog Breed & Age Identification app
+# 🐾 Canine-Classifier : Dog Breed & Age Identification models
 
 A Flask-based REST API that uses custom-trained deep learning models to identify a dog's **breed** (including mixed breeds) and estimate its **age group** from a given image URL.
 
